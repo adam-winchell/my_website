@@ -56,6 +56,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-top: 7vh;
+        min-height: 93vh;
     }
     #myCarousel {
         max-height: 80vh;

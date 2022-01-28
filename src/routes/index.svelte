@@ -53,4 +53,27 @@
     p {
         font-size: 1.2em;
     }
+     
+
+    @media only screen and (min-width: 640px) {
+        .info {
+            overflow-y: scroll;
+            max-height: 60vh;
+        }
+    }
+    @media only screen and (max-width: 640px) {
+        section {
+            flex-direction: column;
+        }
+
+        img {
+            max-height: 85vh;
+            max-width: 90vw;
+            border-radius: 5%;
+            margin-top: 10vh;
+        }
+        .info {
+            max-width: 90%;
+        } 
+    }
 </style>
