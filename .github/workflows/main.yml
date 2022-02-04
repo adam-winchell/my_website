@@ -1,0 +1,21 @@
+name: remote ssh command
+on: [push]
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.KEY }}
+        script: |
+          cd /var/www/html/my_website
+          ls -a
+          pm2 stop index
+          git pull origin main
+          npm run build
+          pm2 start index
+          echo ":)"
