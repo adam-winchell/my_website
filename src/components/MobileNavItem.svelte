@@ -15,6 +15,8 @@
         console.log($page);
     }
 
+    $: document.title = `${$page} | Adam Winchell`
+
 
     const update_page = () => {
         if (prevent_default !== true){
