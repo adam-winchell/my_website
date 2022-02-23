@@ -22,10 +22,10 @@ jobs:
         run: ls
         
       - name: deploy to droplet
-        uses: wlixcc/SFTP-Deploy-Action@v1.0
-        with: 
-          server: ${{secrets.HOST}}
-          username: ${{secrets.USERNAME}}
-          ssh_private_key: ${{secrets.KEY}}
-          local_path: './*'
-          remote_path: '/var/www/html/my_website'
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.KEY }}
+          REMOTE_HOST: ${{ secrets.HOST }}
+          REMOTE_USER: ${{ secrets.USERNAME }}
+          TARGET: "/var/www/html/my_website/"
+          EXCLUDE: "/dist/, /node_modules/"
