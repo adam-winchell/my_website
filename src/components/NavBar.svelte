@@ -2,7 +2,7 @@
     <NavItem url="/" name="Home" />
     <NavItem url="/publications" name="Publications" />
     <NavItem url="/photos" name="Photos" />
-    <NavItem url="#" name="Resume" prevent_default={true} />
+    <ResumeDownload />
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
         <MobileNavItem url="/publications" name="Publications" />
@@ -22,6 +22,7 @@
 <script>
     import NavItem from "./NavItem.svelte"
     import MobileNavItem from "./MobileNavItem.svelte"
+    import ResumeDownload from "./ResumeDownload.svelte"
     import { menu_open } from "../stores/store"
     let open = $menu_open;
     $: {
