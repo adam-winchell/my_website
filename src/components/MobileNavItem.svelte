@@ -53,6 +53,7 @@
         a {
             max-width: 100%;
             width: 95vw;
+            max-height: 10vh;
         }
     }
 </style>

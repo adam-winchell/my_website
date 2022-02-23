@@ -25,6 +25,10 @@
 </section>
 
 
+<script>
+    import {menu_open} from "../stores/store"
+</script>
+
 
 <style>
     section {
@@ -32,6 +36,14 @@
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+
+    .show {
+        display: flex;
+    }
+
+    .no-show {
+        display: none;
     }
 
     .image-container {

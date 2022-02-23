@@ -38,7 +38,7 @@
 <style>
     nav {
         width: 100%;
-        flex-grow: 1;
+
         background-color: var(--nav);
         display: flex;
         justify-content: center;
@@ -51,7 +51,7 @@
     }
 
     .open {
-        height: 100vh;
+        max-height: 100%;
     }
     .closed {
         height: 7vh;
@@ -72,8 +72,10 @@
     @media only screen and (max-width: 640px) {
         nav {
             flex-direction: column;
-            height: 100vh;
+            max-height: 100%;
             transition: all 150ms ease-in-out;
+            /* position: absolute; */
+            justify-content: flex-start;
         }
         .menu-toggle {
             display:flex;
