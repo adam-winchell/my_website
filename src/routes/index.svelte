@@ -6,7 +6,7 @@
     </div>
     <div class="info">
         <p>
-            this is from the PR into main
+            this is from the PR into main from responsive-design
         </p>
         
         <p>
@@ -57,21 +57,16 @@
     }
      
 
-    @media only screen and (min-width: 640px) {
-        .info {
-            overflow-y: scroll;
-            max-height: 60vh;
-        }
-    }
+
     @media only screen and (max-width: 640px) {
         section {
             flex-direction: column;
         }
 
         img {
-            max-height: 85vh;
+            max-height: 25vh;
             max-width: 90vw;
-            border-radius: 5%;
+            border-radius: 50%;
             margin-top: 10vh;
         }
         .info {
