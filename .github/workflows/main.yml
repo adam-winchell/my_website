@@ -2,7 +2,8 @@ name: Super Cool Workflow
 on:
   push:
     branches:
-      - 'workflow'
+      - 'main'
+  
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest

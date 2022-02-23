@@ -1,4 +1,3 @@
-
 <section>
     <div class="image-container">
         <img src="/profile.png" alt="profile">
@@ -7,7 +6,7 @@
     </div>
     <div class="info">
         <p>
-            extra fun insert
+            this is from the PR into main
         </p>
         
         <p>
