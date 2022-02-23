@@ -1,4 +1,3 @@
-
 <section>
     <div class="image-container">
         <img src="/profile.png" alt="profile">
@@ -6,6 +5,9 @@
         <p>Applied Scientist</p>
     </div>
     <div class="info">
+        <p>
+            this is from the PR into main
+        </p>
         
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias mollitia natus omnis iste praesentium rerum temporibus, quasi, itaque quos distinctio veniam odio voluptatibus magni nihil deleniti porro soluta. Unde inventore ducimus cumque voluptas assumenda praesentium dolorem molestiae, earum iure porro suscipit fugiat dolorum ipsa, nihil minus sapiente! Temporibus, autem!
