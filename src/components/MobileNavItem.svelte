@@ -1,4 +1,4 @@
-<a on:click={update_page} class={active ? "active" : "inactive"} href={url}>
+<a on:click={update_page} href={url}>
     <span>{name}</span>
 </a>
 
@@ -32,8 +32,6 @@
         text-decoration: none;
         color: white;
         flex-grow: 1;
-        min-width: 9vw;
-        max-width: 10vw;
         padding: 10px;
         border-radius: 5px;
         margin-left: 5px;
@@ -41,32 +39,26 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        margin: 3vh 3vw;
+        top: 0;
+        background-color: var(--bg);
+        color: var(--nav);
     }
 
     span {
         font-size: 2em;
-    }
-
-    a:hover {
-        background-color: var(--bg);
-        color: var(--nav);
-    }
-
-    .active {
-        background-color: var(--bg);
-        color: var(--nav);
-    }  
-
-    .inactive {
-        background-color: var(--nav);
-        color: var(--bg);
+        margin: 10px;
+        border-radius: 5px;
+        flex-grow: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     @media only screen and (max-width: 640px) {
         a {
             max-width: 100%;
             width: 95vw;
-            margin: 1vh 1vw;
         }
     }
 </style>
