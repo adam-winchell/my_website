@@ -26,7 +26,7 @@ jobs:
         uses: easingthemes/ssh-deploy@main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          REMOTE_HOST: 45.55.26.56
-          REMOTE_USER: root
+          REMOTE_HOST: ${{ secrets.HOST }}
+          REMOTE_USER: ${{ secrets.USER }}
           TARGET: "/var/www/html/my_website/"
           EXCLUDE: "/dist/, /node_modules/"
