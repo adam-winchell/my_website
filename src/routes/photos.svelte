@@ -11,28 +11,28 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="profile.png" alt="Los Angeles" >
+              <img src="photos/campaign_finale.jpg" alt="Final Battle" >
               <div class="carousel-caption">
-                <h3>New York</h3>
-                <p>We love the Big Apple!</p>
+                <h3>Final battle of my DnD campaign</h3>
+                <p>Commisioned by me from <a href="https://justaguy.artstation.com/"> Thuan Nguyen</a> </p>
               </div>
             </div>
       
             <div class="item">
-              <img src="profile.png" alt="Chicago" >
+              <img src="photos/hexmap_seas.jpg" alt="Dnd World Map" >
               <div class="carousel-caption">
-                <h3>New York</h3>
-                <p>We love the Big Apple!</p>
+                <h3>The world map of my Dnd campaign</h3>
               </div>
             </div>
           
-            <div class="item">
+            <!-- <div class="item">
               <img src="profile.png" alt="New york" >
               <div class="carousel-caption">
                 <h3>New York</h3>
                 <p>We love the Big Apple!</p>
               </div>
-            </div>
+            </div> -->
+
           </div>
       
           <!-- Left and right controls -->

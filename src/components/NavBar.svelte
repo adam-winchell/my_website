@@ -1,13 +1,13 @@
 <nav class={$menu_open ? 'open' : 'closed'}>
     <NavItem url="/" name="Home" />
     <NavItem url="/publications" name="Publications" />
-    <!-- <NavItem url="/photos" name="Photos" /> -->
+    <NavItem url="/photos" name="Photos" />
     <!-- <NavItem url="/game_design" name="Game Design" /> -->
     <ResumeDownload />
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
         <MobileNavItem url="/publications" name="Publications" />
-        <!-- <MobileNavItem url="/photos" name="Photos" /> -->
+        <MobileNavItem url="/photos" name="Photos" />
         <!-- <MobileNavItem url="/game_design" name="Game Design" /> -->
         <MobileNavItem url="#" name="Resume" prevent_default={true} />
         <div class="menu-toggle" on:click={toggle_open}>
