@@ -3,9 +3,9 @@
     <NavBar />
     <slot />
     <footer>
-        <FooterItem icon="linkedin" />
-        <FooterItem icon="github" />
-        <FooterItem icon="mortarboard" />
+        <FooterItem icon="linkedin" url="https://www.linkedin.com/in/adam-winchell-3bb71b107/"/>
+        <FooterItem icon="github" url="https://github.com/adam-winchell"/>
+        <FooterItem icon="mortarboard" url="https://scholar.google.com/citations?user=tigkE1EAAAAJ&hl=en&oi=ao" />
     </footer>
 </main>
 
