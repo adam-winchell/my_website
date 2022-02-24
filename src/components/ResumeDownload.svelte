@@ -1,4 +1,4 @@
-<a href="/Adam_Winchell_CV.pdf">
+<a href="/Adam_Winchell_CV.pdf" target="_self">
     <span>CV</span>
 </a>
 

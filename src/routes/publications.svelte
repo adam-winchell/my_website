@@ -4,17 +4,17 @@
             <h2>Publications</h2>
             <ul>
                 <li>
-                    <a href="publications/Textbook_Annotations_as_an_Early_Predictor_of_Student_Learning_COGSCI.pdf"  class="publication"><strong>Winchell, A.</strong>, Lan, A., & Mozer, M. (2020). Highlights as an early predictor of student comprehension and interests. Cognitive Science, 44(11), e12901.</a>
+                    <a target="_self" href="publications/Textbook_Annotations_as_an_Early_Predictor_of_Student_Learning_COGSCI.pdf"  class="publication"><strong>Winchell, A.</strong>, Lan, A., & Mozer, M. (2020). Highlights as an early predictor of student comprehension and interests. Cognitive Science, 44(11), e12901.</a>
                 </li>
                 <li>
 
-                    <a href="publications/textbook-annotations-serve.pdf"   class="publication">Kim, D. Y. J, <strong>Winchell, A.</strong>, Waters, A. E., Grimaldi, P. J., Baraniuk, R., & Mozer, M. C. (2020). Inferring student comprehension from highlighting patterns in digital textbooks: An exploration in an authentic learning platform. In S. Sosnovsky, P. Brusilovsky, R. G. Baraniuk, & A. S. Lan (Eds.), Second Workshop on Intelligent Textbooks, Springer.</a>
+                    <a target="_self" href="publications/textbook-annotations-serve.pdf"   class="publication">Kim, D. Y. J, <strong>Winchell, A.</strong>, Waters, A. E., Grimaldi, P. J., Baraniuk, R., & Mozer, M. C. (2020). Inferring student comprehension from highlighting patterns in digital textbooks: An exploration in an authentic learning platform. In S. Sosnovsky, P. Brusilovsky, R. G. Baraniuk, & A. S. Lan (Eds.), Second Workshop on Intelligent Textbooks, Springer.</a>
                 </li>
                 <li>
-                    <a href="publications/2020_AIED_Conference_Paper.pdf"  class="publication"><strong>Winchell, A.</strong>, Mozer, M. C., Lan, A., Grimaldi, P., & Pashler, H. (2018). Can textbook annotations serve as an early predictor of student learning? In K. E. Boyer & M. Yudelson (Eds.), Proceedings of the 11th International Conference on Educational Data Mining (pp. 431-437). EDM Society Press.</a>
+                    <a target="_self" href="publications/2020_AIED_Conference_Paper.pdf"  class="publication"><strong>Winchell, A.</strong>, Mozer, M. C., Lan, A., Grimaldi, P., & Pashler, H. (2018). Can textbook annotations serve as an early predictor of student learning? In K. E. Boyer & M. Yudelson (Eds.), Proceedings of the 11th International Conference on Educational Data Mining (pp. 431-437). EDM Society Press.</a>
                 </li>
                 <li>
-                    <a href="publications/envelope-curves.pdf"   class="publication">Huibregtse, Mark; <strong>Winchell, Adam</strong>. Envelope curves and equidistant sets. Involve 9 (2016), no. 5, 839--856. doi:10.2140/involve.2016.9.839.</a>
+                    <a target="_self" href="publications/envelope-curves.pdf"   class="publication">Huibregtse, Mark; <strong>Winchell, Adam</strong>. Envelope curves and equidistant sets. Involve 9 (2016), no. 5, 839--856. doi:10.2140/involve.2016.9.839.</a>
                 </li>
             </ul>
         </div>
@@ -27,7 +27,7 @@
             <h2>Teaching</h2>
             <ul>
                 <li>
-                    <a href="csci3104_S2018_syllabus.pdf">
+                    <a target="_self" href="csci3104_S2018_syllabus.pdf">
                         <strong>Graduate Design and Analysis of Algorithms</strong>. Graduate course, University of Colorado Boulder, Department of Computer Science.
                     </a>
                 </li>
