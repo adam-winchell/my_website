@@ -14,7 +14,7 @@
               <img src="photos/campaign_finale.jpg" alt="Final Battle" >
               <div class="carousel-caption">
                 <h3>Final battle of my DnD campaign</h3>
-                <p>Commisioned by me from <a href="https://justaguy.artstation.com/"> Thuan Nguyen</a> </p>
+                <p>Commisioned from <a href="https://justaguy.artstation.com/"> Thuan Nguyen</a> </p>
               </div>
             </div>
       
@@ -25,13 +25,12 @@
               </div>
             </div>
           
-            <!-- <div class="item">
-              <img src="profile.png" alt="New york" >
+            <div class="item">
+              <img src="photos/climbing_wall.jpeg" alt="Climbing Wall" >
               <div class="carousel-caption">
-                <h3>New York</h3>
-                <p>We love the Big Apple!</p>
+                <h3>A climbing wall I built with friends</h3>
               </div>
-            </div> -->
+            </div>
 
           </div>
       

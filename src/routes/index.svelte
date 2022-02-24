@@ -10,12 +10,15 @@
         </p>
         
         <p>
-            My hobbies include board games, climbing, cooking, dungeons and dragons, hiking, painting, and video games.        
+            My hobbies include board games, climbing, cooking, dungeons and dragons, gardening, 
+            hiking, painting, reading, video games, and 3D printing.        
         </p>
         <p>
-            If I had to describe myself in a few words, I am a creator. I have designed board games. I have crafted modules, rules, miniatures, and terrain for dungeons and dragons.
+            If I had to describe myself in a few words, I am a creator. I have designed board games. 
+            I have crafted modules, rules, miniatures, and terrain for dungeons and dragons.
             I have built a climbing wall with friends. I will take any chance I get to concoct some crazy recipe in the kitchen. 
         </p>
+        <p>Thank you for visiting my website, I look forward to connecting!</p>
     </div>
 </section>
 
