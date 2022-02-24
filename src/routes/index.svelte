@@ -6,7 +6,7 @@
     </div>
     <div class="info">
         <p>
-            this is from the PR into main from responsive-design
+            this is from our most recent change
         </p>
         
         <p>

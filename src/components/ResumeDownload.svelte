@@ -1,4 +1,4 @@
-<a href="/resume.txt" download="adam-winchell-resume">
+<a href="/resume.txt" download="adam-winchell-resume" target="_blank">
     <span>Resume</span>
 </a>
 
@@ -22,16 +22,6 @@
     a:hover {
         background-color: var(--bg);
         color: var(--nav);
-    }
-
-    .active {
-        background-color: var(--bg);
-        color: var(--nav);
-    }  
-
-    .inactive {
-        background-color: var(--nav);
-        color: var(--bg);
     }
 
     @media only screen and (max-width: 640px) {
