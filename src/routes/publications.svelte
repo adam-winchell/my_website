@@ -4,17 +4,17 @@
             <h2>Publications</h2>
             <ul>
                 <li>
-                    <a href="/resume.txt" download="pub1" target="_blank" class="publication"><strong>Winchell, A.</strong>, Lan, A., & Mozer, M. (2020). Highlights as an early predictor of student comprehension and interests. Cognitive Science, 44(11), e12901.</a>
+                    <a href="/resume.txt" download="pub1" class="publication"><strong>Winchell, A.</strong>, Lan, A., & Mozer, M. (2020). Highlights as an early predictor of student comprehension and interests. Cognitive Science, 44(11), e12901.</a>
                 </li>
                 <li>
 
-                    <a href="/resume.txt" download="pub2" target="_blank" class="publication">Kim, D. Y. J, <strong>Winchell, A.</strong>, Waters, A. E., Grimaldi, P. J., Baraniuk, R., & Mozer, M. C. (2020). Inferring student comprehension from highlighting patterns in digital textbooks: An exploration in an authentic learning platform. In S. Sosnovsky, P. Brusilovsky, R. G. Baraniuk, & A. S. Lan (Eds.), Second Workshop on Intelligent Textbooks, Springer.</a>
+                    <a href="/resume.txt" download="pub2"  class="publication">Kim, D. Y. J, <strong>Winchell, A.</strong>, Waters, A. E., Grimaldi, P. J., Baraniuk, R., & Mozer, M. C. (2020). Inferring student comprehension from highlighting patterns in digital textbooks: An exploration in an authentic learning platform. In S. Sosnovsky, P. Brusilovsky, R. G. Baraniuk, & A. S. Lan (Eds.), Second Workshop on Intelligent Textbooks, Springer.</a>
                 </li>
                 <li>
-                    <a href="/resume.txt" download="pub3" target="_blank" class="publication"><strong>Winchell, A.</strong>, Mozer, M. C., Lan, A., Grimaldi, P., & Pashler, H. (2018). Can textbook annotations serve as an early predictor of student learning? In K. E. Boyer & M. Yudelson (Eds.), Proceedings of the 11th International Conference on Educational Data Mining (pp. 431-437). EDM Society Press.</a>
+                    <a href="/resume.txt" download="pub3"  class="publication"><strong>Winchell, A.</strong>, Mozer, M. C., Lan, A., Grimaldi, P., & Pashler, H. (2018). Can textbook annotations serve as an early predictor of student learning? In K. E. Boyer & M. Yudelson (Eds.), Proceedings of the 11th International Conference on Educational Data Mining (pp. 431-437). EDM Society Press.</a>
                 </li>
                 <li>
-                    <a href="/resume.txt" download="pub4" target="_blank" class="publication">Huibregtse, Mark; <strong>Winchell, Adam</strong>. Envelope curves and equidistant sets. Involve 9 (2016), no. 5, 839--856. doi:10.2140/involve.2016.9.839.</a>
+                    <a href="/resume.txt" download="pub4"  class="publication">Huibregtse, Mark; <strong>Winchell, Adam</strong>. Envelope curves and equidistant sets. Involve 9 (2016), no. 5, 839--856. doi:10.2140/involve.2016.9.839.</a>
                 </li>
             </ul>
         </div>

@@ -12,7 +12,6 @@
     let active = $page == name;
     $: {
         active = $page == name;
-        console.log($page);
     }
 
 

@@ -2,11 +2,13 @@
     <NavItem url="/" name="Home" />
     <NavItem url="/publications" name="Publications" />
     <NavItem url="/photos" name="Photos" />
+    <NavItem url="/game_design" name="Game Design" />
     <ResumeDownload />
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
         <MobileNavItem url="/publications" name="Publications" />
         <MobileNavItem url="/photos" name="Photos" />
+        <MobileNavItem url="/game_design" name="Game Design" />
         <MobileNavItem url="#" name="Resume" prevent_default={true} />
         <div class="menu-toggle" on:click={toggle_open}>
             <img src="/up.svg" alt="caret up" />
@@ -25,9 +27,6 @@
     import ResumeDownload from "./ResumeDownload.svelte"
     import { menu_open } from "../stores/store"
     let open = $menu_open;
-    $: {
-        console.log($menu_open);
-    }
 
     const toggle_open = () => {
         menu_open.set(!$menu_open)
