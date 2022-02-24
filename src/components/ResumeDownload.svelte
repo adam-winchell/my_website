@@ -1,5 +1,5 @@
-<a href="/resume.txt" download="adam-winchell-resume" target="_blank">
-    <span>Resume</span>
+<a href="/Adam_Winchell_CV.pdf">
+    <span>CV</span>
 </a>
 
 

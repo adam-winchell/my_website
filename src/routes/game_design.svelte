@@ -1,21 +1,9 @@
 <section>
     <div class="info">
         <p>
-            this is from our most recent change
+            WORK IN PROGRESS
         </p>
         
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias mollitia natus omnis iste praesentium rerum temporibus, quasi, itaque quos distinctio veniam odio voluptatibus magni nihil deleniti porro soluta. Unde inventore ducimus cumque voluptas assumenda praesentium dolorem molestiae, earum iure porro suscipit fugiat dolorum ipsa, nihil minus sapiente! Temporibus, autem!
-        </p>
-        <br>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias mollitia natus omnis iste praesentium rerum temporibus, quasi, itaque quos distinctio veniam odio voluptatibus magni nihil deleniti porro soluta. Unde inventore ducimus cumque voluptas assumenda praesentium dolorem molestiae, earum iure porro suscipit fugiat dolorum ipsa, nihil minus sapiente! Temporibus, autem!
-        </p>
-        <br>
-
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias mollitia natus omnis iste praesentium rerum temporibus, quasi, itaque quos distinctio veniam odio voluptatibus magni nihil deleniti porro soluta. Unde inventore ducimus cumque voluptas assumenda praesentium dolorem molestiae, earum iure porro suscipit fugiat dolorum ipsa, nihil minus sapiente! Temporibus, autem!
-        </p>
     </div>
 </section>
 

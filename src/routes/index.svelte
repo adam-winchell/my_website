@@ -2,24 +2,19 @@
     <div class="image-container">
         <img src="/profile.png" alt="profile">
         <h1>Adam Winchell</h1>
-        <p>Applied Scientist</p>
     </div>
     <div class="info">
         <p>
-            this is from our most recent change
+            I am currently an Applied Scientist at Amazon. I love teaching and am always looking for 
+            opportunities to integrate teaching into my career journey. 
         </p>
         
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias mollitia natus omnis iste praesentium rerum temporibus, quasi, itaque quos distinctio veniam odio voluptatibus magni nihil deleniti porro soluta. Unde inventore ducimus cumque voluptas assumenda praesentium dolorem molestiae, earum iure porro suscipit fugiat dolorum ipsa, nihil minus sapiente! Temporibus, autem!
+            My hobbies include board games, climbing, cooking, dungeons and dragons, hiking, painting, and video games.        
         </p>
-        <br>
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias mollitia natus omnis iste praesentium rerum temporibus, quasi, itaque quos distinctio veniam odio voluptatibus magni nihil deleniti porro soluta. Unde inventore ducimus cumque voluptas assumenda praesentium dolorem molestiae, earum iure porro suscipit fugiat dolorum ipsa, nihil minus sapiente! Temporibus, autem!
-        </p>
-        <br>
-
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias mollitia natus omnis iste praesentium rerum temporibus, quasi, itaque quos distinctio veniam odio voluptatibus magni nihil deleniti porro soluta. Unde inventore ducimus cumque voluptas assumenda praesentium dolorem molestiae, earum iure porro suscipit fugiat dolorum ipsa, nihil minus sapiente! Temporibus, autem!
+            If I had to describe myself in a few words, I am a creator. I have designed board games. I have crafted modules, rules, miniatures, and terrain for dungeons and dragons.
+            I have built a climbing wall with friends. I will take any chance I get to concoct some crazy recipe in the kitchen. 
         </p>
     </div>
 </section>
