@@ -79,10 +79,6 @@
         /* justify-content: left; */
     }
 
-    .teaching p {
-        margin-bottom: 10px;
-    }
-
 
     a {
         text-decoration: none;
@@ -101,7 +97,7 @@
     }
 
     .pubyear {
-        margin: 15px;
+        margin: 10px;
     }
 
 

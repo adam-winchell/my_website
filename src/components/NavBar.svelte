@@ -2,14 +2,15 @@
     <NavItem url="/" name="Home" />
     <NavItem url="/publications" name="Publications" />
     <NavItem url="/photos" name="Photos" />
-    <!-- <NavItem url="/game_design" name="Game Design" /> -->
+    <NavItem url="/game_design" name="Game Design" />
     <ResumeDownload />
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
         <MobileNavItem url="/publications" name="Publications" />
         <MobileNavItem url="/photos" name="Photos" />
-        <!-- <MobileNavItem url="/game_design" name="Game Design" /> -->
-        <MobileNavItem url="#" name="Resume" prevent_default={true} />
+        <MobileNavItem url="/game_design" name="Game Design" />
+        <!-- <MobileNavItem url="#" name="CV" prevent_default={true} /> -->
+        <ResumeDownload />
         <div class="menu-toggle" on:click={toggle_open}>
             <img src="/up.svg" alt="caret up" />
         </div>
