@@ -13,7 +13,7 @@
             <div class="item active">
               <img src="photos/campaign_finale.jpg" alt="Final Battle" >
               <div class="carousel-caption">
-                <h3>Final battle of my DnD campaign</h3>
+                <h3>Final battle of my Dungeons and Dragons campaign, <i>A Tale of Two Liches</i></h3>
                 <p>Commisioned from <a href="https://justaguy.artstation.com/"> Thuan Nguyen</a> </p>
               </div>
             </div>
@@ -21,7 +21,8 @@
             <div class="item">
               <img src="photos/hexmap_seas.jpg" alt="Dnd World Map" >
               <div class="carousel-caption">
-                <h3>The world map of my Dnd campaign</h3>
+                <h3>The world map of my Dungeons and Dragons campaign, <i>A Tale of Two Liches</i></h3>
+                <p>Inspired by Discworld and Legend of Zelda</p>
               </div>
             </div>
           
@@ -66,6 +67,11 @@
         max-height: 80vh;
         margin: 0 auto;
     }
-
+    a {
+        text-decoration: underline;
+        color: white;
+        font-size: 1.2em;
+        
+    }
     
 </style>
