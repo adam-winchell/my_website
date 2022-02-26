@@ -70,7 +70,6 @@
     a {
         text-decoration: underline;
         color: white;
-        font-size: 1.2em;
         
     }
     

@@ -22,7 +22,7 @@
         <p>30-60 minutes</p>
 
         <h3>Rules</h3>
-        <p>The rules can be downloaded from <a target="_self" href="games/Bizarre_Bazaar_Rules.pdf">here</a>. A quick overview of the rules can be found below.</p>
+        <p>The rules can be downloaded <a target="_self" href="games/Bizarre_Bazaar_Rules.pdf">here</a>. A quick overview of the rules can be found below.</p>
         <p>Each round, the Buyer draws a Role card and becomes a mundane human or a fantastic creature. All other players use Quality (adjective or gerund) and Item 
             (noun) cards to invent Quality Items. These combinations are placed in bags that are shuffled and distributed to new, 
             unsuspecting players. To the best of their abilities, players then attempt to sell the bizarre contents of their bags, and the Buyer chooses which 
@@ -74,6 +74,7 @@
         /* max-width: 80%; */
         margin: 0 auto;
         padding: 10px;
+        margin-bottom: -100px;
         /* margin-left: 15px; */
         /*display: flex;
         flex-direction: column; */
@@ -83,9 +84,7 @@
 
     a {
         text-decoration: underline;
-        color: black;
-        font-size: 1.2em;
-        
+        color: black;        
     }
 
     li {

@@ -81,7 +81,7 @@
 
 
     a {
-        text-decoration: underline;
+        text-decoration: none;
         color: black;
         font-size: 1.2em;
         
