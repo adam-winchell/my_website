@@ -74,7 +74,6 @@
         /* max-width: 80%; */
         margin: 0 auto;
         padding: 10px;
-        margin-bottom: -100px;
         /* margin-left: 15px; */
         /*display: flex;
         flex-direction: column; */
