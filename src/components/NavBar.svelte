@@ -9,8 +9,8 @@
         <MobileNavItem url="/publications" name="Publications" />
         <MobileNavItem url="/photos" name="Photos" />
         <MobileNavItem url="/game_design" name="Game Design" />
-        <!-- <MobileNavItem url="#" name="CV" prevent_default={true} /> -->
-        <ResumeDownload />
+        <MobileNavItem url="Adam_Winchell_CV.pdf" name="CV" prevent_default={true} />
+        
         <div class="menu-toggle" on:click={toggle_open}>
             <img src="/up.svg" alt="caret up" />
         </div>

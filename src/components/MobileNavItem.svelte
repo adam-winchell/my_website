@@ -1,4 +1,4 @@
-<a on:click={update_page} href={url}>
+<a on:click={update_page} href={url} target="_self">
     <span>{name}</span>
 </a>
 
