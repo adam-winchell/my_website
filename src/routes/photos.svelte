@@ -33,6 +33,13 @@
               </div>
             </div>
 
+            <div class="item">
+              <img src="photos/dark_souls_painting.jpg" alt="Dark Souls" >
+              <div class="carousel-caption">
+                <h3>A painting I made inspired by <i>Dark Souls</i></h3>
+              </div>
+            </div>
+
           </div>
       
           <!-- Left and right controls -->
