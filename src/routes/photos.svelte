@@ -6,7 +6,8 @@
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
           </ol>
       
           <!-- Wrapper for slides -->
@@ -38,6 +39,14 @@
               <img src="photos/dark_souls_painting.jpg" alt="Dark Souls" >
               <div class="carousel-caption">
                 <h3>A painting I made inspired by <i>Dark Souls</i></h3>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="photos/Deepbreach.jpg" alt="deepbreach" >
+              <div class="carousel-caption">
+                <h3>The city of Deepbreach, the megacity in the Underdark campaign module I am writing with Josh Ladd</h3>
+                <p>Commisioned from <a href="https://justaguy.artstation.com/"> Thuan Nguyen</a> </p>
               </div>
             </div>
 
