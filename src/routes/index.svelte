@@ -5,8 +5,7 @@
     </div>
     <div class="info">
         <p>
-            I am currently an Applied Scientist at Amazon, where I work on designing machine learning models to 
-            improve advertisting reporting and measurement. 
+            I will be joining Google in the Fall as a Machine Learning Engineer to work on the Gmail Ads Quality team. 
             I love teaching and am always looking for 
             opportunities to integrate teaching into my career journey. 
         </p>
