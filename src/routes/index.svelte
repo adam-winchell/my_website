@@ -5,7 +5,7 @@
     </div>
     <div class="info">
         <p>
-            I will be joining Google in the Fall as a Machine Learning Engineer to work on the Gmail Ads Quality team. 
+            I am a Machine Learning Engineer at Google on the Gmail Ads Quality team. 
             I love teaching and am always looking for 
             opportunities to integrate teaching into my career journey. 
         </p>
