@@ -7,6 +7,11 @@
                         <strong>Extrodinary Actions </strong>  written by Adam Winchell and Josh Ladd.
                     </a>
                 </li>
+                <li>
+                    <a target="_self" href="https://github.com/adam-winchell/Xem-s-Guide-To-the-Underdark-PDFs/blob/main/output/XGU_Players_Supplement.pdf">
+                        <strong>Xem's Guide To the Underdark Players Supplement </strong>  written by Adam Winchell and Josh Ladd.
+                    </a>
+                </li>
             </ul>
     </div>
 
