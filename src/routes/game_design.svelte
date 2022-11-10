@@ -1,6 +1,6 @@
 <section>
     <div class="dnd">
-            <h2>Dungeons and Dragons Content</h2>
+            <h2>Dungeons & Dragons Content</h2>
             <ul>
                 <li>
                     <a target="_self" href="games/Extrodinary_Actions.pdf">
