@@ -3,7 +3,6 @@
     <NavItem url="/publications" name="Publications" />
     <NavItem url="/photos" name="Photos" />
     <NavItem url="https://www.realnitogames.com" name="Game Design" />
-    <!-- <GameDesign /> -->
     <ResumeDownload />
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
