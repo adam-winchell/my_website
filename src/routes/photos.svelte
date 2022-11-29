@@ -12,6 +12,7 @@
       
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
+            
             <div class="item active">
               <img src="photos/campaign_finale.jpg" alt="Final Battle" >
               <div class="carousel-caption">
@@ -39,14 +40,6 @@
               <img src="photos/dark_souls_painting.jpg" alt="Dark Souls" >
               <div class="carousel-caption">
                 <h3>A painting I made inspired by <i>Dark Souls</i></h3>
-              </div>
-            </div>
-
-            <div class="item">
-              <img src="photos/Deepbreach.jpg" alt="deepbreach" >
-              <div class="carousel-caption">
-                <h3>The city of Deepbreach, the megacity in the Underdark campaign module I am writing with Josh Ladd</h3>
-                <p>Commisioned from <a href="https://justaguy.artstation.com/"> Thuan Nguyen</a> </p>
               </div>
             </div>
 
