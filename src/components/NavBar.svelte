@@ -2,12 +2,14 @@
     <NavItem url="/" name="Home" />
     <NavItem url="/publications" name="Publications" />
     <NavItem url="/photos" name="Photos" />
+    <NavItem url="/poetry_writing" name="Poetry & Writing" />
     <NavItem url="https://www.realnitogames.com" name="Game Design" />
     <ResumeDownload />
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
         <MobileNavItem url="/publications" name="Publications" />
         <MobileNavItem url="/photos" name="Photos" />
+        <MobileNavItem url="/poetry_writing" name="Poetry & Writing" />
         <MobileNavItem url="https://www.realnitogames.com" name="Game Design" />
         <MobileNavItem url="Adam_Winchell_CV.pdf" name="CV" prevent_default={true} />
         
