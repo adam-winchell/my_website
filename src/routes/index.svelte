@@ -5,7 +5,7 @@
     </div>
     <div class="info">
         <p>
-            I am a Software Engineer at Google on the Gmail Ads Quality team, with a speciality in machine learning. 
+            I am a Senior Software Engineer at Google on the Gmail Ads Quality team, with a speciality in machine learning. 
             I love teaching and am always looking for 
             opportunities to integrate teaching into my career journey. 
         </p>
