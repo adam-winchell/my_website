@@ -6,6 +6,24 @@
             <a target="_self" href="poems/ode_to_cemeteries.pdf">Ode to Cemeteries</a>
           </li>
       </ul>
+      <h2>Favorite Quotes</h2>
+      <ul>
+        <li>
+          <p>“Truth and clarity are complementary.” Niels Bohr. </p>
+            <p>
+            <b>My thoughts:</b> If you want to understand truth, 
+            things become less clear. If you want clarity 
+            on something, the truth becomes obscured. 
+            You can’t have both.</p>
+          <ul>
+            <li>
+                
+            </li>
+          </ul>
+        </li>
+    </ul>
+
+            
   </div>
   
   </section>
