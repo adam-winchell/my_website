@@ -4,6 +4,9 @@
             <h2>Publications</h2>
             <ul>
                 <li>
+                    <a href="https://arxiv.org/abs/2510.26954"  class="publication"><strong>Winchell, Adam.</strong> (2025). Can Machines Think Efficiently? arXiv preprint. arXiv:2510.26954.</a>
+                </li>
+                <li>
                     <a target="_self" href="publications/Textbook_Annotations_as_an_Early_Predictor_of_Student_Learning_COGSCI.pdf"  class="publication"><strong>Winchell, A.</strong>, Lan, A., & Mozer, M. (2020). Highlights as an early predictor of student comprehension and interests. Cognitive Science, 44(11), e12901.</a>
                 </li>
                 <li>
