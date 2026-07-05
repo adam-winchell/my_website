@@ -11,8 +11,8 @@
         </p>
         
         <p>
-            My hobbies include board games, climbing, cooking, Dungeons and Dragons, gardening, 
-            hiking, painting, reading, video games, and 3D printing.        
+            My hobbies include board games, camping, climbing, cooking, Dungeons and Dragons, gardening, 
+            hiking, painting, reading, video games, 3D printing, and wood working.        
         </p>
         <p>
             If I had to describe myself in a few words, I am a creator. I have designed board games. 
