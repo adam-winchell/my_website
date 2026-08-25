@@ -1,11 +1,11 @@
 <a class="contact-icon" href={url}>
-    <img src={"/" + icon + ".svg"} alt="google scholar">
+    <img src={"/" + icon } alt="google scholar">
 </a>
 
 
 <script>
-    export let url = "http://github.com/"
-    export let icon = "github"
+    export let url = "http://research.google/pubs"
+    export let icon = "google.png"
 </script>
 
 <style>

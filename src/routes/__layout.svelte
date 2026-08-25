@@ -3,9 +3,10 @@
     <NavBar />
     <slot />
     <footer>
-        <FooterItem icon="linkedin" url="https://www.linkedin.com/in/adam-winchell-3bb71b107/"/>
-        <FooterItem icon="github" url="https://github.com/adam-winchell"/>
-        <FooterItem icon="mortarboard" url="https://scholar.google.com/citations?user=tigkE1EAAAAJ&hl=en&oi=ao" />
+        <FooterItem icon="linkedin.svg" url="https://www.linkedin.com/in/adam-winchell-3bb71b107/"/>
+        <!-- <FooterItem icon="github" url="https://github.com/adam-winchell"/> -->
+        <FooterItem icon="mortarboard.svg" url="https://scholar.google.com/citations?user=tigkE1EAAAAJ&hl=en&oi=ao" />
+        <FooterItem icon="google.png" url="https://research.google/pubs/can-machines-think-efficiently/"/>
     </footer>
 </main>
 
