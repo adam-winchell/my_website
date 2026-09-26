@@ -10,6 +10,10 @@
             <a target="_self" href="poems/Ode to Jamaica Pond.pdf">Ode to Jamaica Pond
             </a>
           </li>
+          <li>
+            <a target="_self" href="writing/Case 571, Witness 3_ The Psychoergometer Expert.pdf">Case 571, Witness 3: The Psychoergometer Expert
+            </a>
+          </li>
       </ul>
       <h2>Favorite Quotes</h2>
       <ul>
