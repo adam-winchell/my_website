@@ -22,6 +22,10 @@
             <a target="_self" href="writing/Officer Phil.pdf">Officer Phil
             </a>
           </li>
+          <li>
+            <a target="_self" href="writing/Galgren and Mr. Tim.pdf">Galgren and Mr. Tim
+            </a>
+          </li>
       </ul>
       <h2>Favorite Quotes</h2>
       <ul>
