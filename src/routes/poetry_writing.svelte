@@ -26,6 +26,14 @@
             <a target="_self" href="writing/Galgren and Mr. Tim.pdf">Galgren and Mr. Tim
             </a>
           </li>
+          <li>
+            <a target="_self" href="writing/District Attorney Scaleria.pdf">District Attorney Scaleria
+            </a>
+          </li>
+          <li>
+            <a target="_self" href="writing/Defense Attorney Simmons.pdf">Defense Attorney Simmons
+            </a>
+          </li>
       </ul>
       <h2>Favorite Quotes</h2>
       <ul>
