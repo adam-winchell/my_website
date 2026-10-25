@@ -34,6 +34,10 @@
             <a target="_self" href="writing/Defense Attorney Simmons.pdf">Defense Attorney Simmons
             </a>
           </li>
+          <li>
+            <a target="_self" href="writing/Who made the story.pdf">Who made the story
+            </a>
+          </li>
       </ul>
       <h2>Favorite Quotes</h2>
       <ul>
@@ -44,11 +48,6 @@
             things become less clear. If you want clarity 
             on something, the truth becomes obscured. 
             You can’t have both.</p>
-          <ul>
-            <li>
-                
-            </li>
-          </ul>
         </li>
     </ul>
 
