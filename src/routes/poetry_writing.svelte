@@ -34,7 +34,7 @@
             </ul>
           </li>
           <li>
-            <a target="_self" href="writing/Who Made the Story.pdf">Who Made the Story?
+            <a target="_self" href="writing/Who_Made_the_Story.pdf">Who Made the Story?
             </a>
           </li>
       </ul>
